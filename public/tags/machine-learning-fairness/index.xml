@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning Fairness | Hongtao Wang</title>
+    <link>http://localhost:1313/tags/machine-learning-fairness/</link>
+      <atom:link href="http://localhost:1313/tags/machine-learning-fairness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning Fairness</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning Fairness</title>
+      <link>http://localhost:1313/tags/machine-learning-fairness/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Fairness and Explainability in Stage-Specific Cancer Survivability Prediction</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;This project develops machine learning (ML) models to predict cancer survivability with a focus on fairness and explainability, using data from the &lt;a href=&#34;https://seer.cancer.gov/data/&#34;&gt;SEER&lt;/a&gt;. It addresses the need for tailored predictions that consider the different stages of several cancers, particularly bladder, breast, and prostate cancers.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
