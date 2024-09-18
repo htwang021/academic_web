@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:htwang021@gmail.com'
+    url: 'mailto:hongtaowang003@gmail.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/htwang021
   - icon: brands/linkedin
-    url: www.linkedin.com/in/hongtao-wang-253533252
+    url: https://www.linkedin.com/in/hongtao-wang-253533252/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   - icon: academicons/orcid
