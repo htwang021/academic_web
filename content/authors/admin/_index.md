@@ -202,4 +202,4 @@ awards:
 
 ## About Me
 
-My name is Hongtao Wang, and I am currently a Master’s student in Computer Science at the University of Pittsburgh, where I also work as a research assistant at the Health Information Management Department. My academic and professional journey is driven by a passion for advancing digital health through cutting-edge technologies and ethical artificial intelligence (AI).
+My name is Hongtao Wang, and I am currently a Master’s student in Computer Science at the University of Pittsburgh, where I also work as a student developer at [HARI Lab](https://www.hari.pitt.edu/). My academic and professional journey is driven by a passion for advancing digital health through cutting-edge technologies and ethical artificial intelligence (AI).

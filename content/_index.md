@@ -35,8 +35,7 @@ sections:
       title: '📖 My Research'
       subtitle: ''
       text: |-
-        As part of my Master’s thesis, I am developing advanced AI tools to support caregivers of individuals with dementia. My research focuses on extending the Caregiver Language Model (CALM), a domain-specific large language model, by integrating Retrieval-Augmented Generation (RAG). This innovative approach combines the power of generative AI with a dynamic retrieval system, allowing caregivers to access up-to-date and reliable information tailored to the complex and evolving needs of dementia care.
-
+        As part of my Master’s thesis, I am developing advanced AI tools to support caregivers of individuals with dementia. My research focuses on extending the Caregiver Language Model (CALM), a domain-specific language model developed by [HARI Lab](https://www.hari.pitt.edu/).
         The goal of my research is to provide caregivers with a personalized, knowledge-rich tool that assists with daily caregiving challenges. The system retrieves relevant information from a curated knowledge base on dementia, ensuring accurate and context-specific responses.
 
     design:
