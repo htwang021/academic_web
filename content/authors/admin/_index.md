@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/0009-0008-4333-6440
 
 interests:
-  - Data Analytics
+  - Clinical Data Analytics
   - mHealth and Digital Health
   - AI in Healthcare
  
